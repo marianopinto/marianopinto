@@ -2,4 +2,4 @@
 
 I am Mariano and below you can find some info about me:
 
-- 🌱 I’m currently learning some DevOps practices as I am very interested in Infrastructure as Code and Monitoring Tools. I am also learning Go being used in my current job.
+- 🌱 I’m currently improving my Golang skills after some time spent working with it. I am also exploring the potentialities of some monitoring tools and trying to grasp DevOps skills.
