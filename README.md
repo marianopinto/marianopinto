@@ -1,6 +1,4 @@
 ### Hi there 👋
 
-I am Mariano and below you can find some info about me:
+I am Mariano and I am a SDET currently working at Dojo where my main focus is testing. I really like coding and Golang is the language that I've been working the most recently. 
 
-- I’m mostly focused on testing and, as part of that, I really enjoy coding. Golang is the language that I've been exploring recently and I really like it. 
-- I'm always willing to grasp new skills and I find the DevOps practices very interesting.
