@@ -24,5 +24,3 @@
 
 **Infrastructure & DevOps:**
 `AWS` `Docker` `Kubernetes` `GitHub Actions` `Terraform`
-
---
