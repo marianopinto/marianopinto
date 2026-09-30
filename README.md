@@ -25,11 +25,4 @@
 **Infrastructure & DevOps:**
 `AWS` `Docker` `Kubernetes` `GitHub Actions` `Terraform`
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=marianopinto&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianopinto&layout=compact&theme=radial&hide_border=true" alt="Top Languages" />
-</p>
+--
